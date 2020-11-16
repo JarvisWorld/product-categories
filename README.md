@@ -9,7 +9,7 @@ This project was generated with node version 10.15.3
 
 # Setup
 
-Need to install required npm package to run Angular & Nodejs project.
+Need to install required npm package to run Nodejs project.
 
 npm install
 
